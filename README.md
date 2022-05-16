@@ -28,7 +28,7 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumugit&count_private=true&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumugit&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
   
 <h3 align="left">Languages and Tools:</h3>
