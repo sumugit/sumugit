@@ -2,8 +2,8 @@
   <a href="https://github.com/sumugit/sumugit/">
     <img src="https://komarev.com/ghpvc/?username=sumugit" alt="sumugit" />
   </a>
-  <a href="http://twitter.com/sumugit">
-    <img height="20" src="https://img.shields.io/twitter/follow/sumugit?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/yusumi88988">
+    <img height="20" src="https://img.shields.io/twitter/follow/yusumi88988?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/sumugit">
     <img height="20" src="https://img.shields.io/github/followers/sumugit?label=follow&logo=github&style=flat" />
