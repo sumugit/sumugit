@@ -8,11 +8,11 @@
   <a href="https://github.com/sumugit">
     <img height="20" src="https://img.shields.io/github/followers/sumugit?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/sumugit">
+  <a href="https://stackoverflow.com/users/5720201/yusumi">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/sumugit">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/sumugit/posts.svg" />
+  <a href="http://qiita.com/yusumi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yusumi/posts.svg" />
   </a>
   <//qiita.com/sumugit">
     <img height="20" src="https://qiita-badge.apiapi.app/s/sumugit/contributions.svg" />
