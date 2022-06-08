@@ -14,8 +14,8 @@
   <a href="http://qiita.com/yusumi">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yusumi/posts.svg" />
   </a>
-  <//qiita.com/sumugit">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/sumugit/contributions.svg" />
+  <//qiita.com/yusumi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yusumi/contributions.svg" />
   </a>
 </p>
 
