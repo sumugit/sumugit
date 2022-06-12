@@ -41,11 +41,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2022 - To: 11 June 2022
+From: 13 May 2022 - To: 12 June 2022
 
-Total Time: 2 hrs 38 mins
+Total Time: 7 hrs 23 mins
 
-Python                   █████████████████████████   100.00 %
+Python                     ███████████████████▒░░░░░   77.56 %
+YAML                       ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+CSV                        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Markdown                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Bash                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
