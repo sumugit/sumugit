@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 10 July 2022
+From: 11 June 2022 - To: 11 July 2022
 
-Total Time: 39 hrs 2 mins
+Total Time: 36 hrs 23 mins
 
-Python                       ███████████████████▓░░░░░   78.39 %
-Markdown                     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Other                        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Python                       ███████████████████▒░░░░░   76.92 %
+Markdown                     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Other                        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->
