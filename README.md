@@ -1,24 +1,3 @@
-<p align="left">
-  <a href="https://github.com/sumugit/sumugit/">
-    <img src="https://komarev.com/ghpvc/?username=sumugit" alt="sumugit" />
-  </a>
-  <a href="http://twitter.com/yusumi88988">
-    <img height="20" src="https://img.shields.io/twitter/follow/yusumi88988?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/sumugit">
-    <img height="20" src="https://img.shields.io/github/followers/sumugit?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/19114065/yusumi">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/19114065?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/yusumi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yusumi/posts.svg" />
-  </a>
-  <//qiita.com/yusumi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yusumi/contributions.svg" />
-  </a>
-</p>
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumugit&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sumugit&theme=onedark&show_icons=ture" />
