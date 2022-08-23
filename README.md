@@ -20,11 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 July 2022 - To: 22 August 2022
+From: 24 July 2022 - To: 23 August 2022
 
-Total Time: 18 hrs 39 mins
+Total Time: 21 hrs 7 mins
 
-Python                       ███████████████████████▓░   95.09 %
+Python                       █████████████████████░░░░   83.38 %
+TeX                          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
 Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
