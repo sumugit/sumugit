@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 July 2022 - To: 29 August 2022
+From: 31 July 2022 - To: 30 August 2022
 
-Total Time: 27 hrs 36 mins
+Total Time: 25 hrs 31 mins
 
-Python                       █████████████████████▓░░░   86.31 %
-TeX                          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Python                       █████████████████████▒░░░   85.24 %
+TeX                          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
