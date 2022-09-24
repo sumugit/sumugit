@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 23 September 2022
+From: 25 August 2022 - To: 24 September 2022
 
-Total Time: 27 hrs 56 mins
+Total Time: 27 hrs 48 mins
 
-Python                       ███████████████████████▒░   93.01 %
-YAML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Python                       ███████████████████████▒░   92.99 %
+YAML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
