@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 09 October 2022
+From: 10 September 2022 - To: 10 October 2022
 
-Total Time: 19 hrs 55 mins
+Total Time: 18 hrs 33 mins
 
-Python                       ██████████████████████▓░░   91.07 %
-Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Python                       ██████████████████████▓░░   90.46 %
+Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 ```
 
 <!--END_SECTION:waka-->
