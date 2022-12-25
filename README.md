@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 24 December 2022
+From: 25 November 2022 - To: 25 December 2022
 
-Total Time: 17 hrs 7 mins
+Total Time: 16 hrs 27 mins
 
-Python                     ███████████████████████▒░   92.85 %
-Markdown                   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Python                     ███████████████████████▓░   94.00 %
+Markdown                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
