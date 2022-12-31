@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 30 December 2022
+From: 01 December 2022 - To: 31 December 2022
 
-Total Time: 14 hrs 44 mins
+Total Time: 14 hrs 24 mins
 
-Python                     ███████████████████████▒░   93.60 %
-Markdown                   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-CSV                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Python                     ███████████████████████▒░   93.53 %
+Markdown                   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+CSV                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
