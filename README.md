@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 15 January 2023
+From: 17 December 2022 - To: 16 January 2023
 
-Total Time: 9 hrs 20 mins
+Total Time: 7 hrs 25 mins
 
-Python                     ████████████████████████▓   98.75 %
-Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Python                     ████████████████████████▓   98.52 %
+Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
