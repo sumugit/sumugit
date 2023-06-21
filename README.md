@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2023 - To: 20 June 2023
+From: 22 May 2023 - To: 21 June 2023
 
-Total Time: 13 hrs 32 mins
+Total Time: 11 hrs 41 mins
 
-Python                     ████████████████████████░   95.45 %
-Markdown                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python                     ███████████████████████▓░   94.84 %
+Markdown                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
