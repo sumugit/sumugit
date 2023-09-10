@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2023 - To: 09 September 2023
+From: 11 August 2023 - To: 10 September 2023
 
-Total Time: 10 hrs 9 mins
+Total Time: 8 hrs 13 mins
 
-Python                       ████████████████████████░   95.99 %
-Processing                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-HTML                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python                       ████████████████████████░   95.34 %
+Processing                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+HTML                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
