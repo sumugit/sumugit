@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 15 September 2023
+From: 17 August 2023 - To: 16 September 2023
 
-Total Time: 4 hrs 16 mins
+Total Time: 6 hrs 16 mins
 
-Python                   ███████████████████████▒░   93.68 %
-Ezhil                    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-HTML                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python                   ████████████████████████░   95.59 %
+Ezhil                    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+HTML                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
