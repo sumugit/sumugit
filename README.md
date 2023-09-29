@@ -20,13 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 28 September 2023
+From: 30 August 2023 - To: 29 September 2023
 
-Total Time: 4 hrs 6 mins
+Total Time: 5 hrs 1 min
 
-Python                   ███████████████████████▒░   93.69 %
-Ezhil                    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python                      ██████████████████████▒░░   89.48 %
+Ezhil                       █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Markdown                    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+JSON                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Other                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
