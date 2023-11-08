@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2023 - To: 07 November 2023
+From: 09 October 2023 - To: 08 November 2023
 
-Total Time: 7 hrs 46 mins
+Total Time: 4 hrs 55 mins
 
-Markdown                   ██████████████████████░░░   88.56 %
-Python                     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Other                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-BibTeX                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Markdown                   ████████████████████▓░░░░   82.23 %
+Python                     ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Other                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+BibTeX                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
