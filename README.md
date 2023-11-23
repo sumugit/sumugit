@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 22 November 2023
+From: 24 October 2023 - To: 23 November 2023
 
-Total Time: 7 hrs 18 mins
+Total Time: 6 hrs 26 mins
 
-Python                     ████████████████████████▓   98.43 %
-Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Markdown                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python                     ████████████████████████▓   98.32 %
+Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Markdown                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
