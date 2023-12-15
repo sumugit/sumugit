@@ -20,14 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2023 - To: 14 December 2023
+From: 15 November 2023 - To: 15 December 2023
 
-Total Time: 15 hrs 2 mins
+Total Time: 14 hrs 59 mins
 
-Python                       ████████████████████████▒   97.32 %
+Python                       ████████████████████████▒   97.66 %
 SSH Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
