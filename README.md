@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2023 - To: 20 December 2023
+From: 22 December 2023 - To: 21 January 2024
 
-Total Time: 11 hrs 22 mins
+Total Time: 12 hrs 45 mins
 
-Python                       ████████████████████████▒   97.29 %
-SSH Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python                   █████████████████████████   99.49 %
+Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Text                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
