@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 23 February 2024
+From: 25 January 2024 - To: 24 February 2024
 
-Total Time: 6 hrs 17 mins
+Total Time: 6 hrs 7 mins
 
-Python                   ████████████████████████▓   98.92 %
-Other                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Python                   █████████████████████████   99.58 %
+Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
