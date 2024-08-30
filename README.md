@@ -20,13 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2024 - To: 29 August 2024
+From: 31 July 2024 - To: 30 August 2024
 
-Total Time: 4 hrs 38 mins
+Total Time: 5 hrs 7 mins
 
-Python                       █████████████████████▒░░░   85.23 %
-SSH Config                   ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python                       ███████████████████▒░░░░░   77.38 %
+SSH Config                   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+PowerShell                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
