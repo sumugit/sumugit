@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2024 - To: 19 November 2024
+From: 21 October 2024 - To: 20 November 2024
 
-Total Time: 7 hrs 54 mins
+Total Time: 8 hrs 29 mins
 
-Python                       ████████████████████████▒   96.74 %
-Batchfile                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-SSH Config                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python                       ███████████████████████▓░   94.98 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Batchfile                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+SSH Config                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
