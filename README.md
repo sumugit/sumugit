@@ -20,13 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 09 January 2025
+From: 11 December 2024 - To: 10 January 2025
 
-Total Time: 4 mins
+Total Time: 1 min
 
-Python                     ███████████████████████░░   91.45 %
-Markdown                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-CSV                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Python                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
