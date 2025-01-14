@@ -20,12 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2024 - To: 13 January 2025
+From: 15 December 2024 - To: 14 January 2025
 
-Total Time: 1 hr 56 mins
+Total Time: 2 hrs 54 mins
 
-Python                   █████████████████████████   99.63 %
-Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python                     █████████████████░░░░░░░░   67.50 %
+VB.NET                     ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+JSON                       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Other                      ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Text                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
