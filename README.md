@@ -20,15 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2025 - To: 24 May 2025
+From: 25 April 2025 - To: 25 May 2025
 
-Total Time: 3 hrs 41 mins
+Total Time: 3 hrs 9 mins
 
-Python                         ███████████████████████░░   91.38 %
-OpenEdge ABL                   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-PowerShell                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-SSH Config                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python                       ████████████████████████░   95.92 %
+PowerShell                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+SSH Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
