@@ -20,15 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 20 September 2025
+From: 22 August 2025 - To: 21 September 2025
 
-Total Time: 1 hr 22 mins
+Total Time: 1 hr 12 mins
 
-Python                       ████████████████████▓░░░░   83.21 %
-SSH Config                   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Batchfile                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Python                      ███████████████████████▓░   94.33 %
+Batchfile                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+JSON                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Other                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
