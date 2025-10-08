@@ -20,14 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 07 October 2025
+From: 08 September 2025 - To: 08 October 2025
 
-Total Time: 1 hr 17 mins
+Total Time: 1 hr
 
-Python                      ███████████████████████▓░   94.65 %
-Batchfile                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JSON                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Other                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Python                      ████████████████████████░   96.15 %
+Batchfile                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
