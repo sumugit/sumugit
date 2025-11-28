@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 27 November 2025
+From: 29 October 2025 - To: 28 November 2025
 
-Total Time: 19 mins
+Total Time: 3 hrs 14 mins
 
-Python                   ███████████████████████░░   92.07 %
-Other                    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Python                   ████████████████████████▓   99.06 %
+Other                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
