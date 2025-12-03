@@ -20,12 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 01 December 2025
+From: 02 November 2025 - To: 02 December 2025
 
-Total Time: 3 hrs 18 mins
+Total Time: 3 hrs 50 mins
 
-Python                   ████████████████████████▓   99.07 %
-Other                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python                       ████████████████████████▒   97.32 %
+Git Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
