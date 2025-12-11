@@ -20,13 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 10 December 2025
+From: 11 November 2025 - To: 11 December 2025
 
-Total Time: 8 hrs 4 mins
+Total Time: 8 hrs 38 mins
 
-Python                       ████████████████████████░   95.48 %
-Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Git Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Python                       ██████████████████████▒░░   89.56 %
+BibTeX                       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Git Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 INI                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
