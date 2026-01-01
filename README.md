@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 31 December 2025
+From: 02 December 2025 - To: 01 January 2026
 
-Total Time: 5 hrs 53 mins
+Total Time: 5 hrs 54 mins
 
-Python                           ███████████████████▓░░░░░   78.77 %
-BibTeX                           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Graphviz (DOT)                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Other                            █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Git Config                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Python                           ██████████████████░░░░░░░   71.35 %
+BibTeX                           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Graphviz (DOT)                   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Markdown                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Other                            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
