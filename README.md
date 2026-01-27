@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2025 - To: 26 January 2026
+From: 28 December 2025 - To: 27 January 2026
 
-Total Time: 14 hrs 19 mins
+Total Time: 18 hrs 59 mins
 
-Python                           █████████████████████▒░░░   85.65 %
-Markdown                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Graphviz (DOT)                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Other                            █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Docker                           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Python                           ██████████████████████▒░░   88.78 %
+Graphviz (DOT)                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Markdown                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Other                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Docker                           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
