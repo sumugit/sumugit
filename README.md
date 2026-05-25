@@ -20,11 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2026 - To: 24 May 2026
+From: 25 April 2026 - To: 25 May 2026
 
 Total Time: 25 mins
 
-Python                         █████████████████████████   100.00 %
+Python                         ████████████████████▒░░░░   81.03 %
+Other                          ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+JSON                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
