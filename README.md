@@ -20,15 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2026 - To: 02 July 2026
+From: 03 June 2026 - To: 03 July 2026
 
-Total Time: 3 hrs 8 mins
+Total Time: 29 mins
 
-Python                                 ███████████████████████▓░   94.98 %
-Graphviz (DOT)                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Markdown                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-TeX                                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Text                                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python                                 ████████████████████▓░░░░   82.86 %
+PowerShell                             ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Graphviz (DOT)                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
