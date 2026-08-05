@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 04 August 2026
+From: 06 July 2026 - To: 05 August 2026
 
-Total Time: 1 hr 46 mins
+Total Time: 2 hrs 7 mins
 
-SSH Config                         ██████████▓░░░░░░░░░░░░░░   42.57 %
-PowerShell                         ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
-Python                             █████░░░░░░░░░░░░░░░░░░░░   19.49 %
-Public Key                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Other                              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+SSH Config                         █████████████▓░░░░░░░░░░░   54.10 %
+Python                             ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+PowerShell                         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+JSON                               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Public Key                         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
